@@ -1,7 +1,7 @@
 {
   "name": "road-to-max-cape",
   "version": "1.0.0",
-  "description": "Track progress towards max cape in Oldschool Runescape",
+  "description": "A CLI to help track progress towards max cape in Oldschool Runescape",
   "main": "src/index.js",
   "bin": {
     "rtmc": "./bin/rtmc"
