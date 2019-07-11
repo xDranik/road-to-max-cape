@@ -1,0 +1,15 @@
+{
+  "name": "road-to-max-cape",
+  "version": "1.0.0",
+  "description": "Track progress towards max cape in Oldschool Runescape",
+  "main": "src/index.js",
+  "bin": {
+    "rtmc": "./bin/rtmc"
+  },
+  "scripts": {},
+  "author": "Andy Tonoyan <xdranik@gmail.com>",
+  "dependencies": {
+    "commander": "^2.20.0",
+    "node-fetch": "^2.6.0"
+  }
+}
