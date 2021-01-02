@@ -212,14 +212,13 @@ Options:
   -m, --mode <mode>  Game mode: REGULAR (default) | IRONMAN | HARDCORE_IRONMAN | ULTIMATE_IRONMAN
   -s, --save         Save lookup
   -c, --compact      Compact diff. Only show skills that have progress
-  -h, --help         output usage information
 ```
 
 Example output
 
 ```bash
 $ rtmc diff xdranik
-Name: xdranik
+Name: xdranik is cool
 Lookup date: Wed Jul 10 2019 23:44:48 GMT-0700 (Pacific Daylight Time)
 Previous lookup date: Wed Jul 10 2019 15:52:34 GMT-0700 (Pacific Daylight Time)
 
@@ -265,3 +264,4 @@ Overall                 26915 (+848)  2121 (+4)           233628933 (+2028230)
 Magic                   260632 (-86)    92 (+0)                 6827270 (+230)
 Construction           20732 (+7228)    92 (+4)             6539691 (+2028000)
 ```
+:)
